@@ -1,4 +1,4 @@
-# Tensorflow-Android
+# Mobile Apps Android Artificial intelligence 
 
-## Classification
-- Flower
+## Teknik yang ada di Aplikasi
+- Sistem Kecerdasan Buatannya mengklasifikasi ragam Bunga
